@@ -39,8 +39,8 @@ You don't have:
 * The special attack of Magical Guards (which you lose half of your HP after walking between two of these guys) and Wizards (which you lose a static amount of HP after walking near one of these guys) (8)
 * Power-up items' effects should vary by floor (8)
 * Lava tiles (5)
-* Reimplement the delay of turn-based fights with the multi-thread timer (1)
-* 
+* Reimplement the delay of turn-based fights with the multi-thread timer (1) (to improve the stablity of the currently buggy battle skipping function)
+
 # License
 
 WTFPLv2
